@@ -6,3 +6,5 @@ for game backports
 you need a HACKED PS4 9.00 OR LOWER
 
 credits to zerofo
+
+https://github.com/zerofo/ps4-sdk-spoofer
