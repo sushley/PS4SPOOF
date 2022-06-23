@@ -2,7 +2,7 @@
 #define SPOOF_FW 0x505003100 //(5.05)
                  
 ////Credits to zerofo
-
+//https://github.com/zerofo/ps4-sdk-spoofer
 ///////* examples *\\\\\\\\
 
 //Thanks to psdevwiki 
